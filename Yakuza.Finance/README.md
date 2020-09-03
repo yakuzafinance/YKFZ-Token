@@ -1,0 +1,5 @@
+
+Yakuza.Finance Contract code
+
+AUDIT COMPLETED BY BITFWDCOMMUNITY
+
